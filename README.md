@@ -24,19 +24,23 @@ By leveraging your computer's webcam and advanced computer vision techniques, th
 
 This tool operates in two distinct stages, allowing for both debugging and practical use.
 
+
 ### Stage 1: Model & Landmark Check
+
 This mode allows developers to verify that the camera is correctly detecting and tracking facial and hand landmarks. It visually plots the tracking mesh on the video feed.
 
-![Landmark Checking Mode](image_4.png)
+<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/ef6aa28e-36db-4b4e-b277-cd16a256d951" />
+
 *A user's face showing the MediaPipe landmark mesh for tracking validation.*
 
 ### Stage 2: Real-Time Captioning
 This is the main operational mode. The model actively interprets gestures and displays the corresponding text captions at the top of the screen.
 
+<img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/8decce29-1965-457e-a493-bd66f8603d17" />
+
+
 ![Real-Time Captioning Mode](image_5.png)
 *The application correctly identifying and displaying captions for "hello", "thanks", and "iloveyou" in real-time.*
-
-*(Note: Replace `image_4.png` and `image_5.png` with the actual paths to your screenshots in the repository).*
 
 ## 🛠️ Tech Stack
 
