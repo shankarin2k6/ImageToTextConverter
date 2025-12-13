@@ -39,7 +39,6 @@ This is the main operational mode. The model actively interprets gestures and di
 <img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/8decce29-1965-457e-a493-bd66f8603d17" />
 
 
-![Real-Time Captioning Mode](image_5.png)
 *The application correctly identifying and displaying captions for "hello", "thanks", and "iloveyou" in real-time.*
 
 ## 🛠️ Tech Stack
