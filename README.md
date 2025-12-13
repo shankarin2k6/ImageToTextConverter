@@ -69,6 +69,8 @@ Execute the primary testing script to start the webcam and begin translation:
 ```
 python realtime_testing.py
 ```
+Thank You For Visiting!!
+
 Developed by Shankari N
 
 
