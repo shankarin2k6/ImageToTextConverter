@@ -71,7 +71,7 @@ python realtime_testing.py
 ```
 Thank You For Visiting!!
 
-Developed by Shankari N
+Developed by Shankari N.
 
 
 
